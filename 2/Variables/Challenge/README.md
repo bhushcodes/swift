@@ -45,3 +45,5 @@ print("The temp is \(tempc) degrees Celsius.")
 This program demonstrates the conversion of a temperature from Fahrenheit to Celsius and outputs the result in a human-readable format.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+[Cheatsheet 📄](/2/Variables/Cheatsheet/Cheatsheet.png)
