@@ -26,7 +26,7 @@ var tempc: Double
 tempc = (tempf - 32) / 1.8
 ```
 
-3. Display Result:
+### 3. Display Result:
 
 - Display the result using string interpolation.
 - Output exactly like so: "The temp is [tempc] degrees Celsius."
