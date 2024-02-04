@@ -31,3 +31,5 @@ var pageCount: Int = 278
 These type annotations help make the code more explicit and conform to Swift's strong typing, ensuring that variables are used in a way consistent with their declared types.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - String Interpolation](/2/Variables/String_Interpolation/README.md)
