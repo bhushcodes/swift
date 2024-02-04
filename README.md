@@ -14,7 +14,7 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
 4. [Cheatsheet](1/Cheatsheet/Cheatsheet.png)
 5. Variables
 
-   - [Introduction to Variales](2/Variables/Introduction_To_Variables/README.md)
+   - [Introduction to Variables](2/Variables/Introduction_To_Variables/README.md)
    - [Declare a Variable](2/Variables/Declare_A_Variable/README.md)
    - [Arithmetic Operators](2/Variables/Arithmetic_Operators/README.md)
    - [Compound Assignment Operators](2/Variables/Compound_Assignment_Operators/README.md)
