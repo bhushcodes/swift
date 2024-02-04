@@ -46,3 +46,5 @@ print("Codecademy")
 ```
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Cheatsheet](/1/Cheatsheet/Cheatsheet.png)
