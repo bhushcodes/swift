@@ -79,3 +79,5 @@ print(tip)
 - `print(tip)`: Outputs the value of the variable `tip`. The actual tip value depends on the initial value of `amount`.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - Compound Assignment Operators](/2/Variables/Compound_Assignment_Operators/README.md)
