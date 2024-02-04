@@ -21,3 +21,5 @@ let months = 7 // Example: January, February, May, July, August, October, Decemb
 Constants are beneficial for ensuring the integrity of specific values that should remain unchanged during the program's execution. They contribute to program safety by preventing unintended modifications.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+[Challenge 🧑🏻‍💻](/2/Variables/Challenge/README.md)
