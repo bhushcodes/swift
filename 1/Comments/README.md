@@ -47,4 +47,6 @@ print("Codecademy")
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
 
-Next: [Cheatsheet](/1/Cheatsheet/Cheatsheet.png)
+[Cheatsheet 📄](/1/Cheatsheet/Cheatsheet.png)
+
+Next: [Variables - Introduction to Variables](/2/Variables/Introduction_To_Variables/README.md)
