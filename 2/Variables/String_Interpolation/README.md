@@ -30,3 +30,5 @@ Explanation:
 This demonstrates how to dynamically include variable values within a string using Swift's string interpolation feature.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - Constants](/2/Variables/Constants/README.md)
