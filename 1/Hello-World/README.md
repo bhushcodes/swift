@@ -30,3 +30,5 @@ When the program is run, `"Hello, world!"` is printed in the terminal.
 Traditionally, `"Hello, world!"` is the first program to learn when exploring a new programming language.
 
 [Follow for updates](twitter.com/bhushcodes)
+
+Next: [Print](/1/Print/README.md)
