@@ -49,3 +49,5 @@ print(apples)
 By the end of this program, the variable `apples` reflects the changes made through the customer purchases. Adjustments were made using compound assignment operators for a more concise and readable code.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - Type](/2/Variables/Type/README.md)
