@@ -34,3 +34,5 @@ The type guides the compiler in allocating memory and specifies permissible oper
 Integers, decimals, text, and boolean values are common types of data handled by variables.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - Declare a Variable](/2/Variables/Declare_A_Variable/README.md)
