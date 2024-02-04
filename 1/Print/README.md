@@ -37,3 +37,5 @@ The order of print statements influences the output.
 When executed, the terminal displays the requested pattern.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Comments](/1/Comments/README.md)
