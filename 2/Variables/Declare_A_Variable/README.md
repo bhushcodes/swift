@@ -28,4 +28,4 @@ This code demonstrates the basics of declaring a variable, assigning a value to 
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
 
-Next: [Variables - Declare a Variable](/2/Variables/Declare_A_Variable/README.md)
+Next: [Variables - Arithmetic Operators](/2/Variables/Arithmetic_Operators/README.md)
