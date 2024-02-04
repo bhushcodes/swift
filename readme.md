@@ -10,6 +10,17 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
 2. [Print](1/Print/README.md)
 3. [Comments](1/Comments/README.md)
 4. [Cheatsheet](1/Cheatsheet/Cheatsheet.png)
+5. Variables
+
+   - [Introduction to Variales](2/Variables/Introduction_To_Variables/README.md)
+   - [Declare a Variable](2/Variables/Declare_A_Variable/README.md)
+   - [Arithmetic Operators](2/Variables/Arithmetic_Operators/README.md)
+   - [Compound Assignment Operators](2/Variables/Compound_Assignment_Operators/README.md)
+   - [Type](2/Variables/Type/README.md)
+   - [String Interpolation](2/Variables/String_Interpolation/README.md)
+   - [Constants](2/Variables/Constants/README.md)
+   - [Challenge: Temperature](2/Variables/Challenge/README.md)
+   - [Cheatsheet](2/Variables/Cheatsheet/Cheatsheet.png)
 
 ### How to Connect:
 
