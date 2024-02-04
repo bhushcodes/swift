@@ -27,3 +27,5 @@ print(year)
 This code demonstrates the basics of declaring a variable, assigning a value to it, and printing the variable's value to the console.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Variables - Declare a Variable](/2/Variables/Declare_A_Variable/README.md)
