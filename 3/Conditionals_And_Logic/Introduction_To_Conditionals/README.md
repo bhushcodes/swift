@@ -1,83 +1,40 @@
-# Swift Variables and Arithmetic Operators
+# Swift Conditionals: Introduction
 
-## Introduction:
+## Overview:
+Conditionals are fundamental to programming as they allow a program to make decisions based on certain conditions. In Swift, conditionals are implemented through conditional statements and operators, providing the ability to react to different scenarios.
 
-Now that we have declared variables, let's explore how to perform calculations using arithmetic operators.
+## Use Cases:
+- Making decisions based on user input.
+- Handling authentication processes.
+- Reacting to changes in data or environment.
 
-### Arithmetic Operators:
+## Key Concepts:
+- **if Statement:** Executes a block of code only if a specified condition is true.
+- **else Statement:** Executes a block of code if the condition specified in the if statement is false.
+- **else if Statement:** Allows for additional conditions to be checked if the initial if condition is false.
+- **Logical Operators:** `&&` (logical AND), `||` (logical OR), `!` (logical NOT), used to create complex conditions.
+- **Comparison Operators:** `==` (equal), `!=` (not equal), `<` (less than), `>` (greater than), `<=` (less than or equal to), `>=` (greater than or equal to), used to compare values.
 
-`+`Addition
-
-`-` Subtraction
-
-`*` Multiplication
-
-`/` Division
-
-`%` Modulo (divides and gives the remainder)
-
-### Example:
-
-```swift
-
-var score = 0
-// score is 0
-
-score = 4 + 2
-// it is now 6
-
-score = score - 2
-// it is now 4
-
-score = 4 * 2
-// it is now 8
-
-score = 4 / 2
-// and now 2
-
-score = 5 % 2
-// and now 1
-```
-
-#### Note:
-
-The order of operations can be specified using parentheses.
-For example, using parentheses in `score = 4 * (2 + 1)` sets score equal to `4 * 3` rather than `8 + 1`.
-
-## Instructions:
-
-#### Declaration of Amount:
-
-Declare and initialize a variable called `amount`.
+## Example:
 
 ```swift
-var amount = 100.0
+var temperature = 25
+
+if temperature > 30 {
+    print("It's a hot day!")
+} else if temperature >= 20 && temperature <= 30 {
+    print("The weather is just right.")
+} else {
+    print("It's a bit chilly.")
+}
 ```
+## Explanation:
+- Checks the temperature and prints a message based on different conditions.
+- Demonstrates the use of if, else if, and else statements.
+- Introduces logical operators (`&&`) for complex conditions.
 
-#### Calculating Tip:
-
-Declare a new variable named `tip` and give it the value of `amount` multiplied by `0.2`.
-
-```swift
-var tip = amount * 0.2
-```
-
-#### Printing Tip:
-
-Print out the value of `tip`.
-
-```swift
-print(tip)
-```
-
-#### Explanation:
-
-- `var amount = 100.0`: Declares a variable named `amount` and initializes it with the value `100.0`.
-
-- `var tip = amount * 0.2`: Declares a new variable named `tip` and assigns it the value of `amount` multiplied by `0.2`.
-
-- `print(tip)`: Outputs the value of the variable `tip`. The actual tip value depends on the initial value of `amount`.
+In the upcoming lessons, we will delve deeper into Swift's conditional statements and explore their applications in various scenarios.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
 
-Next: [Variables - Compound Assignment Operators](/2/Variables/Compound_Assignment_Operators/README.md)
+Next: [Conditionals - Introduction to Conditionals](3/Conditionals_And_Logic/Introduction_To_Conditionals/)
