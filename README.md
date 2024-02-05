@@ -26,8 +26,8 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
   
 4. Conditionals & Logic
 
-   - [Introduction to Conditionals](3/Introduction_To_Conditionals/README.md)
-   - [If Statements](3/If_Statement/README.md)
+   - [Introduction to Conditionals](3/Introduction_To_Conditionals/Introduction_To_Conditionals/README.md)
+   - [If Statements](3/If_Statement/If_Statement/README.md)
 
 ### How to Connect:
 
