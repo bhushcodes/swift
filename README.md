@@ -23,6 +23,11 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
    - [Constants](2/Variables/Constants/README.md)
    - [Challenge: Temperature](2/Variables/Challenge/README.md)
    - [Cheatsheet](2/Variables/Cheatsheet/Cheatsheet.png)
+  
+4. Conditionals & Logic
+
+   - [Introduction to Conditionals](3/Introduction_To_Conditionals/README.md)
+   - [If Statements](3/If_Statement/README.md)
 
 ### How to Connect:
 
