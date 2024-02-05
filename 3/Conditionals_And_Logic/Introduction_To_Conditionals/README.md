@@ -37,4 +37,4 @@ In the upcoming lessons, we will delve deeper into Swift's conditional statement
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
 
-Next: [Conditionals - Introduction to Conditionals](3/Conditionals_And_Logic/Introduction_To_Conditionals/)
+Next: [Conditionals - Introduction to Conditionals](/3/Conditionals_And_Logic/If_Statement/README.md)
