@@ -8,7 +8,7 @@ The `if` statement is a fundamental conditional statement in Swift. It allows fo
 
 #### 1. Declare Variable:
 
--Declare a variable named `learningToCode` using the `var` keyword and assign it a boolean value of `true`.
+Declare a variable named `learningToCode` using the `var` keyword and assign it a boolean value of `true`.
 
 ```swift
 var learningToCode = true
