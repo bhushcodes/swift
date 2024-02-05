@@ -7,13 +7,13 @@ Hey developers! 👋
 I'm on a Swift programming learning journey through Codecademy, and I've set up this repository on GitHub to track my progress and share helpful content with the community. 📈 Feel free to explore and benefit from the resources I've compiled.
 
 ### Follow this:
-
-1. [Hello World](1/Hello-World/README.md)
-2. [Print](1/Print/README.md)
-3. [Comments](1/Comments/README.md)
-4. [Cheatsheet](1/Cheatsheet/Cheatsheet.png)
-5. Variables
-
+1. Hello World
+   - [Hello World](1/Hello-World/README.md)
+   - [Print](1/Print/README.md)
+   - [Comments](1/Comments/README.md)
+   - [Cheatsheet](1/Cheatsheet/Cheatsheet.png)
+     
+3. Variables
    - [Introduction to Variables](2/Variables/Introduction_To_Variables/README.md)
    - [Declare a Variable](2/Variables/Declare_A_Variable/README.md)
    - [Arithmetic Operators](2/Variables/Arithmetic_Operators/README.md)
