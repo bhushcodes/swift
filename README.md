@@ -28,7 +28,7 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
 
    - [Introduction to Conditionals](3/Conditionals_And_Logic/Introduction_To_Conditionals/README.md)
    - [If Statements](3/Conditionals_And_Logic/If_Statement/README.md)
-   - 
+     
 ### How to Connect:
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
