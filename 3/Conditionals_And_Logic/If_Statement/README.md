@@ -48,3 +48,5 @@ Observe what happens when you run the program. Check if the message gets printed
 - Observing the program's behavior helps understand how the `if` statement reacts to different conditions.
 
 This program demonstrates the use of an `if` statement to execute code based on a specified condition.#
+
+Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
