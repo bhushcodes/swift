@@ -50,3 +50,5 @@ Observe what happens when you run the program. Check if the message gets printed
 This program demonstrates the use of an `if` statement to execute code based on a specified condition.#
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Conditionals - Else Statement](/3/Conditionals_And_Logic/Else_Statement/README.md)
