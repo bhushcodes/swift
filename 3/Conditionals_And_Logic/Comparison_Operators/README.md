@@ -56,3 +56,5 @@ else {
 This program demonstrates the use of comparison operators to determine the winning team in a basketball game between TuneSquad and Monstars.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Conditionals - Comparison Operators](3/Conditionals_And_Logic/Else_If_Statements/README.md)
