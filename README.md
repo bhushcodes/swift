@@ -30,6 +30,7 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
    - [If Statements](3/Conditionals_And_Logic/If_Statement/README.md)
    - [Else Statement](3/Conditionals_And_Logic/Else_Statement/README.md)
    - [Comparison Operators](3/Conditionals_And_Logic/Comparison_Operators/README.md)
+   - [Else If Statements](/3/Conditionals_And_Logic/Else_If_Statements/README.md)
      
 ### How to Connect:
 
