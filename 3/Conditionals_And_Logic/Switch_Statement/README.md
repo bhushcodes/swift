@@ -35,5 +35,3 @@ isWindy ? print("It's windy!") : print("It's calm.")
 By using the ternary conditional operator, we achieve the same result with a shorter and more concise syntax. However, it's essential to use this operator judiciously to maintain code readability.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
-
-Next: [Conditionals - Switch Statement](/3/Conditionals_And_Logic/Switch_Statement/README.md)
