@@ -1,6 +1,6 @@
 ## Switch Statement: Compound Cases
 
-## Introduction:
+### Introduction:
 
 Compound cases in a switch statement allow for matching multiple values to a single case. This is useful when you want to execute the same code block for several different values of the expression.
 
