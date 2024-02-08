@@ -30,7 +30,12 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
    - [If Statements](3/Conditionals_And_Logic/If_Statement/README.md)
    - [Else Statement](3/Conditionals_And_Logic/Else_Statement/README.md)
    - [Comparison Operators](3/Conditionals_And_Logic/Comparison_Operators/README.md)
-   - [Else If Statements](/3/Conditionals_And_Logic/Else_If_Statements/README.md)
+   - [Else If Statements](3/Conditionals_And_Logic/Else_If_Statements/README.md)
+   - [Ternary Conditional Operator](3/Conditionals_And_Logic/Ternary_Conditional_Operator/README.md)
+   - [Switch Statement](3/Conditionals_And_Logic/Switch_Statement/README.md)
+   - [Switch Statement: Interval Matching](3/Conditionals_And_Logic/Switch%20Statement:%20Interval%20Matching/README.md)
+   - [Switch Statement: Compound Cases](3/Conditionals_And_Logic/Switch%20Statement:%20Compound%20Cases/README.md)
+   - [Switch Statement: where Clause](3/Conditionals_And_Logic/Switch%20Statement:%20where%20Clause/README.md)
      
 ### How to Connect:
 
