@@ -16,7 +16,7 @@ switch expression {
 }
 ```
 
-Instructions:
+### Instructions:
 
 1. **Create Switch Statement:**
    - Declare a switch statement with `planet` as its expression.
@@ -28,7 +28,7 @@ Instructions:
    - Add a default case to handle scenarios where the planet is not recognized.
    - Print "Unknown planet" in the default case.
 
-Code Example:
+### Code Example:
 
 ```swift
 var planet = "Earth"
@@ -43,7 +43,7 @@ switch planet {
 }
 ```
 
-Explanation:
+### Explanation:
 
 - The switch statement evaluates the value of `planet`.
 - Compound cases group planets belonging to the same category.
