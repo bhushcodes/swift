@@ -30,3 +30,5 @@ The logical AND operator (`&&`) is used to combine two conditions in a logical e
 4. Test your code with different values for `midnight` and `date` to ensure it behaves as expected.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Conditionals - Logical Operators - Logical OR Operator](/3/Logical_Operators/Logical_OR_Operator/README.md)
