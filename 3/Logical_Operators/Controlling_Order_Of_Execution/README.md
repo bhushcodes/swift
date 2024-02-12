@@ -16,3 +16,5 @@ In `Controlling_Order_Of_Execution.swift`, you're given multiple expressions whe
 Once you replace each `___` with the appropriate logical operator, any errors related to missing operators should disappear, and the code should execute correctly. This exercise helps reinforce the understanding of how to control the order of execution using parentheses and logical operators.
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [Conditionals - Logical Operators - Cheatsheet](/3/Logical_Operators/Cheatsheet/README.md)
