@@ -41,6 +41,7 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
         - [Logical NOT Operator](3/Logical_Operators/Logical_NOT_Operator/README.md)
         - [Combining Logical Operators](3/Logical_Operators/Combining_Logical_Operators/README.md)
         - [Controlling Order of Execution](3/Logical_Operators/Controlling_Order_Of_Execution/README.md)
+        - [Cheatsheet](/3/Logical_Operators/Cheatsheet/README.md)
 
 ## How to Connect:
 
