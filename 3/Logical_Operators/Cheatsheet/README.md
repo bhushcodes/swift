@@ -12,3 +12,5 @@
 ![Cheatsheet](/3/Logical_Operators/Cheatsheet/conditionals&logic10.jpg)
 
 Twitter: [Follow me for updates!](https://twitter.com/bhushcodes) 🐦
+
+Next: [LOOPS - What are Loops?](/4/Loops/What_Are_Loops/README.md)
