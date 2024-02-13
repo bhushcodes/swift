@@ -22,7 +22,7 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
     - [Challenge: Temperature](2/Variables/Challenge/README.md)
     - [Cheatsheet](2/Variables/Cheatsheet/README.md)
 
-5. [Conditionals & Logic](3/Conditionals_And_Logic/README.md)
+5. Conditionals & Logic
     - **Conditionals**
         - [Introduction to Conditionals](3/Conditionals_And_Logic/Introduction_To_Conditionals/README.md)
         - [If Statements](3/Conditionals_And_Logic/If_Statement/README.md)
@@ -42,6 +42,10 @@ I'm on a Swift programming learning journey through Codecademy, and I've set up 
         - [Combining Logical Operators](3/Logical_Operators/Combining_Logical_Operators/README.md)
         - [Controlling Order of Execution](3/Logical_Operators/Controlling_Order_Of_Execution/README.md)
         - [Cheatsheet](/3/Logical_Operators/Cheatsheet/README.md)
+          
+6. Loops
+
+   - [What are Loops?](/4/Loops/What_Are_Loops/README.md)
 
 ## How to Connect:
 
